@@ -1,5 +1,5 @@
 # LazyLoadPureJS
-Lazy Load implementation with Pure JS
+Lazy Load implementation with Pure JavaScript
 
 # How to use?
 You can use this library for img, iframe and source elements.
