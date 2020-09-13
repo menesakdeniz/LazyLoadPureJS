@@ -16,4 +16,4 @@ function OnScrollMovement(){
 		}
 	});
 }
-setInterval(function(){ScrollWorks();},50); // set an interval for auto load on sliders
+setInterval(function(){OnScrollMovement();},50); // set an interval for auto load on sliders
